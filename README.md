@@ -1,1 +1,1 @@
-# tecnomultimedia
+SINOPSIS: Fenris, el elfo, deja de encargo a Dana, su aprendiz de magia, que cree una barrera de protección para la Torre ya que él tiene que irse por asuntos urgentes. Dana tiene la receta del hechizo, pero el último ingrediente no se puede ver. Con ayuda de Estarossa, el gato negro, salen en busca del ingrediente misterioso.
