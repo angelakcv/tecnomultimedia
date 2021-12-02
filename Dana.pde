@@ -41,19 +41,6 @@ class Dana {
     moverIzq = moverValor;
   }
 
-
-  int getTime() {
-    return time;
-  }
-
-  int getDuracion() {
-    return duracion;
-  }
-
-  int getBegin() {
-    return begin;
-  }
-
   void setBegin(int tiempo_) {
     begin = tiempo_;
   }
